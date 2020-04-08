@@ -1,0 +1,6 @@
+Name: Nunito
+URL:  https://fonts.google.com/specimen/Nunito
+
+Name: Hanalei Fill
+URL:  https://fonts.google.com/specimen/Hanalei+Fill
+
